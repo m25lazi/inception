@@ -8,8 +8,12 @@ App gets the current frames from the camera using AVCapture and it uses this fra
 - iOS 11
 
 ## Reference
-[https://www.invasivecode.com/weblog/AVFoundation-Swift-capture-video/](Capture Video with AVFoundation and Swift)
 
-[https://gist.github.com/MihaelIsaev/273e4e8ddaaf062d2155](Camera View in iOS using Swift)
+[Machine Learning using CoreML](https://developer.apple.com/machine-learning/)
 
-[https://www.hackingwithswift.com/whats-new-in-ios-11](Converting UIImage to CVPixelBuffer)
+[Capture Video with AVFoundation and Swift](https://www.invasivecode.com/weblog/AVFoundation-Swift-capture-video/)
+
+[Camera View in iOS using Swift](https://gist.github.com/MihaelIsaev/273e4e8ddaaf062d2155)
+
+[Converting UIImage to CVPixelBuffer](https://www.hackingwithswift.com/whats-new-in-ios-11)
+

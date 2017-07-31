@@ -9,6 +9,9 @@ App gets the current frames from the camera using AVCapture and it uses this fra
 
 ## Results
 ![Joystick](https://raw.githubusercontent.com/m25lazi/inception/master/result/joystick.jpg)
+![Pug](https://raw.githubusercontent.com/m25lazi/inception/master/result/pug.jpg)
+![Switch Board](https://raw.githubusercontent.com/m25lazi/inception/master/result/switch.jpg)
+![Macbook](https://raw.githubusercontent.com/m25lazi/inception/master/result/mac.jpg)
 
 
 ## References

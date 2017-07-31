@@ -1,5 +1,5 @@
 # Inception
-## Real time image recognition using Apple's CoreML and Google's Inception model
+### Real time image recognition using Apple's CoreML and Google's Inception model
 
 App gets the current frames from the camera using AVCapture and it uses this frame to get predictions using the inception model.
 
@@ -7,7 +7,11 @@ App gets the current frames from the camera using AVCapture and it uses this fra
 - Xcode 9
 - iOS 11
 
-## Reference
+## Results
+![Joystick](https://github.com/m25lazi/inception/blob/master/result/joystick.jpg)
+
+
+## References
 
 [Machine Learning using CoreML](https://developer.apple.com/machine-learning/)
 

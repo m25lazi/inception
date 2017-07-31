@@ -8,10 +8,10 @@ App gets the current frames from the camera using AVCapture and it uses this fra
 - iOS 11
 
 ## Results
-![Joystick](https://raw.githubusercontent.com/m25lazi/inception/master/result/joystick.jpg)
-![Pug](https://raw.githubusercontent.com/m25lazi/inception/master/result/pug.jpg)
-![Switch Board](https://raw.githubusercontent.com/m25lazi/inception/master/result/switch.jpg)
-![Macbook](https://raw.githubusercontent.com/m25lazi/inception/master/result/mac.jpg)
+<img src="https://raw.githubusercontent.com/m25lazi/inception/master/result/joystick.jpg" alt="Joystick" width="300">
+<img src="https://raw.githubusercontent.com/m25lazi/inception/master/result/pug.jpg" alt="Pug" width="300">
+<img src="https://raw.githubusercontent.com/m25lazi/inception/master/result/switch.jpg" alt="Switch Board" width="300">
+<img src="https://raw.githubusercontent.com/m25lazi/inception/master/result/mac.jpg" alt="Macbook" width="300">
 
 
 ## References

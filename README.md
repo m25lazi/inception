@@ -8,7 +8,7 @@ App gets the current frames from the camera using AVCapture and it uses this fra
 - iOS 11
 
 ## Results
-![Joystick](https://github.com/m25lazi/inception/blob/master/result/joystick.jpg)
+![Joystick](https://raw.githubusercontent.com/m25lazi/inception/master/result/joystick.jpg)
 
 
 ## References

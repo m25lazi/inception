@@ -1,5 +1,5 @@
 # Inception
-### Real time image recognition using Apple's CoreML and Google's Inception model
+### Real time image recognition using Apple's CoreML and Google's Inceptionv3 model
 
 App gets the current frames from the camera using AVCapture and it uses this frame to get predictions using the inception model.
 
@@ -12,6 +12,10 @@ App gets the current frames from the camera using AVCapture and it uses this fra
 <img src="https://raw.githubusercontent.com/m25lazi/inception/master/result/pug.jpg" alt="Pug" width="300">
 <img src="https://raw.githubusercontent.com/m25lazi/inception/master/result/switch.jpg" alt="Switch Board" width="300">
 <img src="https://raw.githubusercontent.com/m25lazi/inception/master/result/mac.jpg" alt="Macbook" width="300">
+
+
+## How it works?
+You can read my blog on the usage of CoreML with Inceptionv3 [here](https://medium.com/@m25lazi/building-a-real-time-object-recognizer-for-ios-a678d2baf8f0)
 
 
 ## References
